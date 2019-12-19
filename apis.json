@@ -1,0 +1,87 @@
+{
+    "name": "Helpshift",
+    "description": "Deliver superior support with Helpshift, a customer service platform designed to improve customer satisfaction, optimize service operations and maximize ROI. Our AI-first, bot-powered support software will help you scale the customer experience while m...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1423-helpshift-sdk.jpg",
+    "tags": [
+        "answers",
+        "api provider",
+        "crm",
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/helpshift\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Helpshift",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1423-helpshift-sdk.jpg",
+            "humanURL": "http:\/\/www.helpshift.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/helpshift-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/helpshift-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/helpshift-inc"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/helpshift-inc"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.helpshift.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@helpshift.com"
+        },
+        {
+            "type": "Email",
+            "url": "pr@helpshift.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@helpshift.com"
+        },
+        {
+            "type": "Email",
+            "url": "success@helpshift.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/helpshift"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.helpshift.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/helpshiftSDK"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/helpshift"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.helpshift.com\/"
+        }
+    ]
+}
